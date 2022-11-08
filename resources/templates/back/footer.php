@@ -3,7 +3,7 @@
         ***********************************-->
         <div class="footer">
             <div class="copyright">
-                <p>Copyright © Designed &amp; Developed by <a href="http://skaisar.com/" target="_blank">Sultanul Kaisar</a> 2022</p>
+                <p>Copyright © Designed &amp; Developed by <a href="#" target="_blank">Fahad Uz-Zaman</a> 2022</p>
             </div>
         </div>
         <!--**********************************
